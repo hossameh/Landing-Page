@@ -1,6 +1,8 @@
 # Landing-Page-Project
-### About
 
+### About
+- Programatically build Navigation menu at run time based on HTML page sections.
+- Smooth move between HTML page sections.
 
 ### Technologies
 
@@ -10,7 +12,13 @@
 
 ### Structure
 
+#### css
+- styles.css    
+#### index.html
 
+#### js
+- app.js
+#### README.md
 
 ### Features
 - Import a HTML file and watch it magically convert to Markdown
