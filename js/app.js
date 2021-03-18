@@ -25,7 +25,7 @@
  * 
 */
 function responsiveMenuFun() {
-    var navMenu = document.querySelector(".navbar__menu");
+    const navMenu = document.querySelector(".navbar__menu");
     if(navMenu){
         navMenu.classList.toggle('responsive')
     }
